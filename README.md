@@ -25,7 +25,7 @@ The dashboard was designed to help business stakeholders monitor KPIs, identify 
 
 ## Operational Control & Risk Dashboard
 
-![Operational Control & Risk Dashboard](images/risk_dashboard.png)
+![Operational Control & Risk Dashboard](https://github.com/AymenAli-Analyst/SHEIN-GCC-360-Business-Intelligence-Dashboard/blob/main/Shein3.png.png?raw=true)
 
 ---
 
