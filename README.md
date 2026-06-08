@@ -12,7 +12,7 @@ The dashboard was designed to help business stakeholders monitor KPIs, identify 
 
 ## Commercial Performance Dashboard
 
-![Commercial Performance Dashboard](<img width="1272" height="808" alt="image" src="https://github.com/user-attachments/assets/d27ae474-6ef2-4b16-bc11-7cb8372839bb" />
+![Commercial Performance Dashboard](https://github.com/AymenAli-Analyst/SHEIN-GCC-360-Business-Intelligence-Dashboard/blob/main/Shein1.png.png?raw=true
 )
 
 ---
