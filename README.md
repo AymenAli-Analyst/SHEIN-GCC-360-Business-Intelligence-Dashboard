@@ -12,7 +12,8 @@ The dashboard was designed to help business stakeholders monitor KPIs, identify 
 
 ## Commercial Performance Dashboard
 
-![Commercial Performance Dashboard](images/commercial_dashboard.png)
+![Commercial Performance Dashboard](<img width="1272" height="808" alt="image" src="https://github.com/user-attachments/assets/d27ae474-6ef2-4b16-bc11-7cb8372839bb" />
+)
 
 ---
 
