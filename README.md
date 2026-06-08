@@ -19,7 +19,7 @@ The dashboard was designed to help business stakeholders monitor KPIs, identify 
 
 ## Supply Chain Operations Dashboard
 
-![Supply Chain Operations Dashboard](images/supplychain_dashboard.png)
+![Supply Chain Operations Dashboard](https://github.com/AymenAli-Analyst/SHEIN-GCC-360-Business-Intelligence-Dashboard/blob/main/Shein2.png.png?raw=true)
 
 ---
 
